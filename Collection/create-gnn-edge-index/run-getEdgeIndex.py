@@ -3,11 +3,9 @@ Aug 20, 2024
 This is for automating the creation of the Edge Index from STL files
 '''
 
-
 import bpy
 import os
 import sys
-
 
 ## ------------ MAIN ------------ ##
 ## Declare all the needed information
