@@ -3,6 +3,10 @@
 ## About 
 Reads an STL file and extracts the object connections or edge indices to a file. The file can be used in Graph Neural Networks
 
+<p align="center">
+  <img height="400" src="cad-example.png" />
+</p>
+
 ## Instruction
 Enter the file directories to be analyzed
 - Open the ```run-getEdgeIndex.py``` file
