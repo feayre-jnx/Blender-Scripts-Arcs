@@ -1,11 +1,6 @@
 '''
-This is for automating the creation of the Edge Index per folder
-
-Dataset location format.
-
-Folder:
-Unit(0/1 labels) → Object Type (e.g., Table) → Examples
-
+Aug 20, 2024
+This is for automating the creation of the Edge Index from STL files
 '''
 
 
