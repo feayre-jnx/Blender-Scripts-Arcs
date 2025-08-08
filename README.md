@@ -1,7 +1,7 @@
 # Blender Scripts Collection
 
 ## About 
-This is a collection of scripts that can be use in different applications such as Machine Learning.
+This is a collection of blender python scripts that can be used in different applications such as Machine Learning.
 
 ## Requirements 
 ```Install Blender```
